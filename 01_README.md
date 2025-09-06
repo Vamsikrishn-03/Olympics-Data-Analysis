@@ -37,5 +37,5 @@ The project uncovers trends in athlete demographics, medal distribution, and cou
 
 ---
 
-## 🖼 Dashboard Preview  
+## 🖼 Dashboard Preview - Overview Page
 ![Overview Page](https://github.com/Vamsikrishn-03/Olympics-Data-Analysis/blob/main/03_OVERVIEW.png)
